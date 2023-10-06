@@ -1,0 +1,1 @@
+hese are foundational concepts in ES6, and understanding them will help you write more modern and efficient JavaScript code. As you become more comfortable with these basics, you can explore more advanced ES6 features and their applications.
